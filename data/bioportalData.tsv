@@ -1,0 +1,145 @@
+GROUP	POLD1	POLE	POLE/POLD1	WT	Total	GeneralCancerType
+Esophagogastric Carcinoma	2	12	1	156	171	Esophagogastric
+[Not Available]	0	0	0	5	5	Others
+Acute myeloid leukemias	0	0	0	28	28	Leukemia/lymphoma
+Adrenal Tumor	0	0	0	1	1	Adrenal Tumor
+Adrenocortical Adenoma	0	0	0	1	1	Adrenal Tumor
+Adrenocortical carcinoma	0	0	0	8	8	Adrenocortical Carcinoma
+Adrenocortical Carcinoma	3	5	1	189	198	Adrenocortical Carcinoma
+Ampullary Cancer	4	5	1	157	167	Cholangiocarcinoma
+Ampullary Carcinoma	0	0	0	9	9	Cholangiocarcinoma
+Anal Cancer	1	0	0	30	31	Anal Cancer
+Appendiceal Cancer	0	0	0	75	75	Appendiceal Cancer
+Atypial teratoid/rhabdoid tumor	0	0	0	18	18	Sarcoma
+B-cell acute lymphoblastic leukemia, hypodiploid	0	0	0	17	17	Leukemia/lymphoma
+B-cell acute lymphoblastic leukemia, non-hypodiploid	0	0	0	48	48	Leukemia/lymphoma
+B-Lymphoblastic Leukemia/Lymphoma	0	0	0	150	150	Leukemia/lymphoma
+Bladder Cancer	20	50	7	1082	1159	Bladder Cancer
+Bladder Urothelial Carcinoma	9	26	1	373	409	Bladder Cancer
+Bladder/Urinary Tract Cancer, NOS	0	0	0	1	1	Leukemia/lymphoma
+Bone Cancer	0	3	0	207	210	Bone Cancer
+Brain Cancer	0	2	0	7	9	CNS tumor
+Breast	0	0	0	5	5	Breast Cancer
+Breast Cancer	16	54	0	5475	5545	Breast Cancer
+Breast Sarcoma	0	0	0	36	36	Sarcoma
+Burkitt's lymphoma	0	0	0	15	15	Leukemia/lymphoma
+Cancer of Unknown Primary	6	5	0	1067	1078	Cancer of Unknown Primary
+Cervical Adenocarcinoma	0	0	0	43	43	Cervical Cancer
+Cervical Cancer	5	8	0	230	243	Cervical Cancer
+Cervical Squamous Cell Carcinoma	5	9	1	223	238	Cervical Cancer
+Cholangiocarcinoma	0	1	0	36	37	Cholangiocarcinoma
+Choroid Plexus Tumor	0	0	0	1	1	CNS tumor
+CNS	0	0	0	6	6	CNS tumor
+CNS Cancer	0	0	0	38	38	CNS tumor
+Colon	0	2	2	3	7	Colorectal Cancer
+Colorectal Adenocarcinoma	5	14	2	203	224	Colorectal Cancer
+Colorectal Cancer	41	116	15	2270	2442	Colorectal Cancer
+Cutaneous malignancy of hair matrix cells	0	0	0	1	1	Colorectal Cancer
+Diffuse Glioma	2	1	2	505	510	CNS tumor
+Embryonal Tumor	0	4	0	146	150	Embryonal Tumor
+Embryonal tumor with multilayered rosettes	1	0	0	10	11	Embryonal Tumor
+Encapsulated Glioma	0	0	0	3	3	CNS tumor
+Endometrial Cancer	17	47	12	625	701	Endometrial Cancer
+Endometrial Carcinoma	24	60	29	459	572	Endometrial Cancer
+Ependymoma infratentorial	0	0	0	55	55	CNS tumor
+Ependymoma supratentorial	0	0	0	14	14	CNS tumor
+Ependymomal Tumor	0	1	0	3	4	CNS tumor
+Esophageal Squamous Cell Carcinoma	1	4	0	90	95	Esophagogastric
+Esophagogastric Adenocarcinoma	16	40	7	525	588	Esophagogastric
+Esophagogastric Cancer	21	38	3	1310	1372	Esophagogastric Cancer
+Ewing's sarcoma	0	0	0	24	24	Sarcoma
+Fibrolamellar Carcinoma	0	0	0	3	3	Liver Cancer
+Gastrointestinal Neuroendocrine Tumor	0	0	0	35	35	Neuroendocrine Tumor
+Gastrointestinal Stromal Tumor	0	1	0	130	131	Gastrointestinal Stromal Tumor
+Germ Cell Tumor	3	7	0	471	481	Germ Cell Tumor
+Gestational Trophoblastic Disease	0	0	0	3	3	Germ Cell Tumor
+Glioblastoma	4	7	1	384	396	CNS tumor
+Glioblastoma Multiforme	0	0	0	83	83	CNS tumor
+Glioma	8	12	5	1548	1573	CNS tumor
+Head and Neck Cancer	7	16	2	698	723	Head and Neck Cancer
+Head and Neck Squamous Cell Carcinoma	12	13	2	475	502	Head and Neck Cancer
+Hepatobiliary Cancer	8	29	1	1338	1376	Hepatobillary cancer
+Hepatoblastoma	0	0	0	10	10	Liver Cancer
+Hepatocellular Carcinoma	6	5	0	344	355	Hepatobillary cancer
+Heptocellular Carcinoma	0	0	0	21	21	Hepatobillary cancer
+High-grade glioma K27Mmut	0	0	0	54	54	CNS tumor
+High-grade glioma K27Mwt	2	0	0	61	63	CNS tumor
+Histiocytosis	0	0	0	13	13	Histiocytosis
+Hodgkin Lymphoma	0	0	0	4	4	Leukemia/lymphoma
+Hodgkin Lymphoma-like PTLD	0	1	0	0	1	Leukemia/lymphoma
+Invasive Breast Carcinoma	6	17	1	997	1021	Breast Cancer
+Leukemia	0	4	0	869	873	Leukemia/lymphoma
+Liver Tumor	0	1	0	6	7	Hepatobillary cancer
+Lung Cancer	0	0	0	1	1	Lung Cancer
+Lymphoid Cancer	0	0	0	1	1	Leukemia/lymphoma
+Lymphoid Neoplasm	0	3	0	6	9	Leukemia/lymphoma
+Mature B-Cell Neoplasms	5	13	0	1314	1332	Leukemia/lymphoma
+Mature T and NK Neoplasms	0	1	0	70	71	Leukemia/lymphoma
+Medulloblastoma Group3	0	0	0	58	58	Leukemia/lymphoma
+Medulloblastoma Group4	0	0	0	100	100	Leukemia/lymphoma
+Medulloblastoma SHH	1	0	0	40	41	Leukemia/lymphoma
+Medulloblastoma WNT	0	0	0	21	21	Leukemia/lymphoma
+Melanoma	56	132	21	1137	1346	Melanoma
+Mesothelioma	0	0	0	115	115	Mesothelioma
+Miscellaneous Brain Tumor	0	0	0	6	6	CNS tumor
+Miscellaneous Neuroepithelial Tumor	0	1	0	73	74	CNS tumor
+Myelodysplastic Syndromes	0	0	0	17	17	Leukemia/lymphoma
+Myelodysplastic/Myeloproliferative Neoplasms	0	0	0	4	4	Leukemia/lymphoma
+Myeloid Neoplasm	0	1	0	5	6	Leukemia/lymphoma
+Nerve Sheath Tumor	0	1	0	38	39	Nerve Sheath Tumor
+Nested stromal epithelial tumor of the liver	0	0	0	1	1	Liver Tumor
+Neuroblastoma	0	0	0	50	50	CNS tumor
+Non-Germinomatous Germ Cell Tumor	0	1	0	0	1	Germ Cell Tumor
+Non-Hodgkin Lymphoma	0	4	0	53	57	Leukemia/lymphoma
+Non-Seminomatous Germ Cell Tumor	0	1	0	85	86	Germ Cell Tumor
+Non-Small Cell Lung	1	1	0	7	9	Lung Cancer
+Non-Small Cell Lung Cancer	56	186	7	4431	4680	Lung Cancer
+Ocular Melanoma	1	0	0	79	80	Melanoma
+Osteosarcoma	0	0	0	36	36	Sarcoma
+Ovarian	0	2	0	5	7	Ovarian Cancer
+Ovarian Cancer	7	7	0	836	850	Ovarian Cancer
+Ovarian Epithelial Tumor	5	2	1	401	409	Ovarian Cancer
+Ovarian Germ Cell Tumor	0	0	0	1	1	Germ Cell Tumor
+Pancreatic Adenocarcinoma	0	1	1	174	176	Pancreatic Cancer
+Pancreatic Cancer	9	14	0	1201	1224	Pancreatic Cancer
+Penile Cancer	0	1	0	5	6	Penile Cancer
+Peripheral Nervous System	2	2	0	786	790	CNS tumor
+Pheochromocytoma	0	2	0	295	297	CNS tumor
+Pilocytic astrocytoma	0	0	0	93	93	CNS tumor
+Pineal Tumor	0	0	0	2	2	CNS tumor
+Pleural Mesothelioma	0	1	0	81	82	Pleural Mesothelioma
+Prostate	0	0	0	2	2	Prostate cancer
+Prostate Adenocarcinoma	1	4	3	696	704	Prostate cancer
+Prostate Cancer	19	39	8	3357	3423	Prostate cancer
+Renal	1	0	0	7	8	Renal cancer
+Renal cancer	0	1	0	4	5	Renal cancer
+Renal Cell Carcinoma	15	23	2	1796	1836	Renal cancer
+Renal Clear Cell Carcinoma	4	7	0	345	356	Renal cancer
+Renal Non-Clear Cell Carcinoma	6	3	0	330	339	Renal cancer
+Retinoblastoma	0	0	0	35	35	CNS tumor
+Rhabdoid Cancer	0	0	0	74	74	Sarcoma
+Rhabdomyosarcoma	0	0	0	17	17	Sarcoma
+Salivary Carcinoma	0	0	0	119	119	Salivary cancer
+Salivary Gland Cancer	0	2	0	149	151	Salivary cancer
+Salivary Gland-Type Tumor of the Lung	0	0	0	1	1	Lung Cancer
+Sarcoma	5	5	0	224	234	Sarcoma
+Sellar Tumor	0	0	0	3	3	CNS tumor
+Seminoma	1	0	0	59	60	Germ Cell Tumor
+Sex Cord Stromal Tumor	0	0	0	18	18	Germ Cell Tumor
+Skin Cancer, Non-Melanoma	18	11	5	171	205	Skin Cancer Non-Melanoma
+Small Bowel Cancer	1	2	1	32	36	Small Bowel Cancer
+Small Cell Lung Cancer	6	28	8	241	283	Lung Cancer
+Soft Tissue Sarcoma	4	11	0	591	606	Sarcoma
+Soft Tissue Tumor	0	0	0	4	4	Sarcoma
+Stomach Adenocarcinoma	9	22	8	308	347	Esophagogastric
+T-cell acute lymphoblastic leukemia	0	0	0	19	19	Leukemia/lymphoma
+T-Lymphoblastic Leukemia/Lymphoma	0	0	0	1	1	Leukemia/lymphoma
+Thymic Epithelial Tumor	0	1	0	122	123	Thymic Tumor
+Thymic Tumor	0	0	0	161	161	Thymic Tumor
+Thyroid Cancer	1	11	0	1128	1140	Thyroid Cancer
+Undifferentiated Stomach Adenocarcinoma	1	0	0	12	13	Esophagogastric
+Uterine Sarcoma	0	2	0	80	82	Sarcoma
+Vaginal Cancer	0	0	0	4	4	Vaginal Cancer
+Well-Differentiated Thyroid Cancer	2	1	0	482	485	Thyroid Cancer
+Wilms Tumor	0	1	0	102	103	Wilms Tumor （Wilms' tumor）
+Wilms' tumors	0	0	0	45	45	Wilms Tumor （Wilms' tumor）
